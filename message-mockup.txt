@@ -1,0 +1,20 @@
+OPTION 1
+
+The Random Netherite Armor Trim Generator have chosen you:
+
+- Chestplate: [trim-color] [trim-style] Trim
+- Helmet: [trim-color] [trim-style] Trim
+- Legging: [trim-color] [trim-style] Trim
+- Boots: [trim-color] [trim-style] Trim
+
+You can find the following smithing template:
+- [trim-style] in [trim-location]
+...
+
+
+OPTION 2
+
+The Random Armor Stand Generator chose:
+[material] armor set with [trim-material] [trim-style] trim!
+Find the [trim-style] Smithing Template in [trim-location]
+
